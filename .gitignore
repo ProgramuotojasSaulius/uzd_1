@@ -24,4 +24,5 @@ yarn-error.log*
 
 #devel
 *.vim
-*.json
+package-lock.json
+package.json
