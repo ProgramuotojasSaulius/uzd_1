@@ -3,6 +3,7 @@
 ## technology
 - [React]
 - [Electron](https://electron.atom.io)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![react](https://img.shields.io/?style=plastic&logo=appveyor)](https://profilaktika1985.github.io/uzd_1)
 ## Licence:
 -  learniing everything from freecodecamp react course
+?style=plastic&logo=appveyor
