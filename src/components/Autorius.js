@@ -1,7 +1,7 @@
 const Autorius  = ({cssClass}) => {
 	return (
 		<div className={cssClass}>
-			<p>by hezag</p>
+			<p>laptopinis autorius</p>
 		</div>
 		)
 }
