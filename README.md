@@ -15,11 +15,6 @@ reikia tik "$git commit" parasyti ir viskas
 - nu paziurim ar tagai veikia
 
 ## Licence:
-<<<<<<< HEAD
 -  learniing everything from freecodecamp react course
 ## feature
 feature test
-=======
-
-- learniing everything from freecodecamp react course
->>>>>>> 9df2054567fc5b1d6e8b671c06ce2c5fd8c78209
