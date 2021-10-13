@@ -22,5 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 #devel
+=======
+
+#ignroacija vimo
+>>>>>>> 9df2054567fc5b1d6e8b671c06ce2c5fd8c78209
 *.vim
